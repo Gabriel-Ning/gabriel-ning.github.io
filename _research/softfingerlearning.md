@@ -20,6 +20,6 @@ header:
 <b><i>Abstract: </i></b>Robots play a critical role as the physical agent of human operators to explore the ocean. However, it remains challenging to grasp objects reliably while being fully submerged under a highly pressurized fluidic environment with little visible light, mainly due to the fluidic interference on the interactive physics at the finger and object surfaces. In this study, we propose a soft visual-tactile learning approach using Supervised Variational Autoencoder (SVAE) to estimate the 6D force and torque (FT) of an adaptive finger design made from meta-materials when grasping underwater. We fix a high-framerate camera inside the finger network to track its whole-body deformation while interacting with physical objects. We train an SVAE model to establish a series of latent variables for accurate 6D force and torque estimation against commercial FT sensors. The sensorized soft finger enables us to perform reactive grasping under the water with tactile intelligence. Our results extend the use of SVAE in tactile perception for soft, delicate, and reactive grasping under the water, paving the pathway for future research in learning-based grasping intelligence for underwater robotics.
 
 [Preprint](/files/pdf/research/IEEE/draft.pdf){: .btn--research}
-[GitHub Repo](https://github.com/Gabriel-Ning/SoftFingerForcePrediction){: .btn--research} 
+[GitHub Repo](https://github.com/Gabriel-Ning/SoftFingerSvae){: .btn--research} 
 [Supplemental Video](){: .btn--research}
-[Dataset](){: .btn--research}
+[Dataset](https://drive.google.com/file/d/19CmZHYsDnuvNeUjVXZHiOqFZsTBYsM9z/view?usp=sharing){: .btn--research}
