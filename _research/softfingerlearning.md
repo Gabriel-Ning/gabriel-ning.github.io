@@ -25,4 +25,12 @@ establish a series of latent variables for accurate 6D force and torque estimati
 #### Supplemental Video
 ##### Movie S1 Amphibian Grasping with Visual-Tactile Soft Finger.
 ##### Movie S2 Real-time Force/Torque Prediction.
+##### Movie S3 Object Grasping Success Rates Experiments with/without Contact Feedback.
+##### Movie S4 Contact Force Following Experiments.
+##### Movie S5 Object Shape Adaptation Experiments.
+##### Movie S6 Robot End-effector Reaction to Soft Finger Twist.
+
+
+
+
 
