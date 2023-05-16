@@ -23,6 +23,6 @@ establish a series of latent variables for accurate 6D force and torque estimati
 [Dataset](https://drive.google.com/file/d/19CmZHYsDnuvNeUjVXZHiOqFZsTBYsM9z/view?usp=sharing){: .btn--research}
 
 [Supplemental Video]
-### Movie S1 Amphibian Grasping with Visual-Tactile Soft Finger.
-### Movie S2 Real-time Force/Torque Prediction.
+##### Movie S1 Amphibian Grasping with Visual-Tactile Soft Finger.
+##### Movie S2 Real-time Force/Torque Prediction.
 
