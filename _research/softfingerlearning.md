@@ -24,36 +24,36 @@ establish a series of latent variables for accurate 6D force and torque estimati
 
 #### Supplemental Videos
 ##### Movie S1 Amphibian Grasping with Visual-Tactile Soft Finger.
-https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/dd3e2bd9-bcdc-4102-af51-d40827193510
+<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/dd3e2bd9-bcdc-4102-af51-d40827193510 -->
 
 ##### Movie S2 Real-time Force/Torque Prediction.
 
 
-https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/0614b028-99b8-414e-a06e-4dc834e5ca08
+<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/0614b028-99b8-414e-a06e-4dc834e5ca08 -->
 
 
 ##### Movie S3 Object Grasping Success Rates Experiments with/without Contact Feedback.
 
 
-https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/12445336-c7a2-4d45-8a72-a113ad9f8dea
+<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/12445336-c7a2-4d45-8a72-a113ad9f8dea -->
 
 
 ##### Movie S4 Contact Force Following Experiments.
 
 
-https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/04a115a7-a523-4b67-9d0c-7d8725487fdf
+<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/04a115a7-a523-4b67-9d0c-7d8725487fdf -->
 
 
 ##### Movie S5 Object Shape Adaptation Experiments.
 
 
-https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/54748676-61cf-4414-ab41-90935aa4440a
+<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/54748676-61cf-4414-ab41-90935aa4440a -->
 
 
 ##### Movie S6 Robot End-effector Reaction to Soft Finger Twist.
 
 
-https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/0ae12943-79b9-44ed-a5a6-b299f0bcb25e
+<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/0ae12943-79b9-44ed-a5a6-b299f0bcb25e -->
 
 
 
