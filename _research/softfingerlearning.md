@@ -1,5 +1,5 @@
 ---
-title: "Autoencoding a Soft Touch to Learn Grasping Underwater"
+title: "Autoencoding a Soft Touch to Learn Grasping from On-land to Underwater"
 layout: single-portfolio
 excerpt: "<img src='/images/research/overview.png' alt=''>"
 collection: research
