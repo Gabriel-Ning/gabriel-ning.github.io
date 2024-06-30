@@ -1,8 +1,8 @@
 ---
-title: "Autoencoding a Soft Touch to Learn Grasping from On‐Land to Underwater[J]. Advanced Intelligent Systems"
+title: "Autoencoding a Soft Touch to Learn Grasping from On‐Land to Underwater"
 collection: publications
 permalink: /publication/guo2023autoencoding
-date: 2021-12-22
+date: 2023-10-22
 #venue: 'Political Science Research and Methods'
 paperurl: '/files/pdf/publication/guo2023autoencoding.pdf'
 link: 'https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300382'
