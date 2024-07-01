@@ -8,52 +8,17 @@ header:
   og_image: "research/ais-overview.png"
 ---
 
-<!-- 
+![graphical_abstract](/images/research/ais2.png)
 
-![graphical_abstract](https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/6a22d955-43e6-47f9-b88e-18cd96b043e2)
+<b><i>Abstract: </i></b>Incorporating authentic tactile interactions into virtual environments presents a notable challenge for the emerging development of soft robotic metamaterials. This study introduces a vision-based approach to learning proprioceptive interactions by simultaneously reconstructing the shape and touch of a Soft Robotic Metamaterial (SRM) during physical engagements. The SRM design has been optimized to the size of a finger with enhanced adaptability in 3D interactions while incorporating a see-through viewing field inside, which can be visually captured by a miniature camera underneath to provide a rich set of image features for touch digitization. Employing constrained geometric optimization, we modeled the proprioceptive process with Aggregated Multi-Handles (AMHs). This approach facilitates real-time, precise, and realistic estimations of the finger's mesh deformation within a virtual environment. We also proposed a data-driven learning model to estimate touch positions, achieving reliable results with impressive $R^2$ scores of 0.9681, 0.9415, and 0.9541 along the \(x\), \(y\), and \(z\) axes. Furthermore, we have demonstrated the robust performance of our proposed methods in touch-based human-cybernetic interfaces and human-robot collaborative grasping. This study opens the door to future applications in touch-based digital twin interactions through vision-based soft proprioception.
 
+[GitHub Repo](https://github.com/ancorasir/VisualPropModel){: .btn--research} 
 
+<!-- #### Supplemental Videos -->
+##### Dynamic Touch Path Sensing.
 
-<b><i>Abstract: </i></b>Robots play a critical role as the physical agent of human operators in exploring the ocean. However, it remains challenging to grasp objects reliably while fully submerging under a highly pressurized fluidic environment with little visible light, mainly due to the fluidic interference on the interactive physics at the finger and object surfaces. This study proposes a soft visual-tactile learning approach using a Supervised Variational Autoencoder(SVAE) to estimate the 6D force and torque (FT) of an adaptive finger design made from meta-materials when grasping underwater. We fix a high-framerate camera inside the finger network to track its whole-body deformation while interacting with physical objects. We train an SVAE model to
-establish a series of latent variables for accurate 6D force and torque estimation against commercial FT sensors. The sensorized soft finger enables us to perform reactive grasping under the water with tactile intelligence. Our results extend the use of SVAE in tactile perception for soft, delicate, and reactive grasping under the water, paving the pathway for future research in learning-based grasping intelligence for underwater robotics.
-
-
-[Preprint](/files/pdf/research/IEEE/draft.pdf){: .btn--research}
-[GitHub Repo](https://github.com/bionicdl-sustech/AmphibiousSoftFinger){: .btn--research} 
-[Dataset](https://drive.google.com/file/d/19CmZHYsDnuvNeUjVXZHiOqFZsTBYsM9z/view?usp=sharing){: .btn--research}
-
-#### Supplemental Videos
-##### Movie S1 Amphibian Grasping with Visual-Tactile Soft Finger.
-<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/dd3e2bd9-bcdc-4102-af51-d40827193510 -->
-
-<!-- ##### Movie S2 Real-time Force/Torque Prediction. -->
+![Overview](/images/research/ais-touch.gif "Touch-based Human-robot Interaction").
 
 
-<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/0614b028-99b8-414e-a06e-4dc834e5ca08 -->
-
-
-<!-- ##### Movie S3 Object Grasping Success Rates Experiments with/without Contact Feedback. -->
-
-
-<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/12445336-c7a2-4d45-8a72-a113ad9f8dea -->
-
-
-<!-- ##### Movie S4 Contact Force Following Experiments. -->
-
-
-<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/04a115a7-a523-4b67-9d0c-7d8725487fdf -->
-
-
-<!-- ##### Movie S5 Object Shape Adaptation Experiments. -->
-
-
-<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/54748676-61cf-4414-ab41-90935aa4440a -->
-
-
-<!-- ##### Movie S6 Robot End-effector Reaction to Soft Finger Twist. -->
-
-
-<!-- https://github.com/Gabriel-Ning/gabriel-ning.github.io/assets/42087775/0ae12943-79b9-44ed-a5a6-b299f0bcb25e -->
-
- -->
-
+##### Re-Grasping with Tactile Sensing
+![Re-Grasping](/images/research/ais-grasping.gif "Soft Intelligent Grasping with Touch Reconstruction").
