@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently pursuing a Ph.D. in Mechanical Engineering at the [Southern University of Science and Technology](https://www.sustech.edu.cn/).
+Welcome! I got my PhD from [Southern University of Science and Technology](https://www.sustech.edu.cn/), and currently I'm a Research Associate in [School of AI, Shanghai Jiaotong University](https://soai.sjtu.edu.cn/).
 

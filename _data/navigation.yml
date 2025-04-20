@@ -6,11 +6,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Software"
-    url: /software/
+  # - title: "Software"
+  #   url: /software/
 
-  - title: "Posts"
-    url: /posts/
+  # - title: "Posts"
+  #   url: /posts/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/

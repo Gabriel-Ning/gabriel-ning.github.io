@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ning Guo"
 title_separator          : "-"
 name                     : &name "Ning Guo"
-description              : &description "PhD Candidate in Robotics"
+description              : &description "Research Associate in School of AI, Shanghai Jiaotong University"
 url                      : https://gabriel-ning.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Gabriel-Ning/gabriel-ning.github.io"
@@ -83,14 +83,15 @@ analytics:
 # Site Author
 author:
   name             : "Ning Guo"
-  avatar           : "profile.png"
+  avatar           : "selfi.jpg"
   bio              : "Robotics Researcher"
-  location         :
-  employer         :
+  location         : "Shanghai, China"
+  position         : "Research Associate"
+  employer         : "Shanghai Jiaotong University"
   pubmed           :
-  orcid            : #"http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "11930729@mail.sustech.edu.cn"
+  orcid            : "http://orcid.org/0000-0002-4963-3381"
+  googlescholar    : "https://scholar.google.com/citations?user=WhaWUpcAAAAJ"
+  email            : "sjtu7439612@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
