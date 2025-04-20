@@ -28,5 +28,5 @@ My research focuses on multi-modality and real-world deployable embodied intelli
 - **Second Prize** - 8th Soft Robotics Conference - Basic Theory and Key Technologies Seminar and Soft Robotics Innovation Design Competition (2023)
 - **Silver Award** - 12th "Challenge Cup" Guangdong University Student Entrepreneurship Plan Competition (2020)
 
-[You can find more details about my research and projects in my publications and CV.]
+[You can find more details about my research and projects in my Publications and Research.]
 
